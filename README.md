@@ -1,4 +1,4 @@
-# Hi I'm Nisha💫 
+# 💫 Hey, I'm Nisha
 🎓 Final year student in Bachelor of Information Content Management (Hons)<br>💻 Currently learning: FlutterFlow, Firebase, and full-stack development basics<br>📱 Building a mobile app for my capstone project using FlutterFlow + Firebase + PHPMyAdmin<br>🧩 Passionate about tech, content systems, and continuous learning<br>🚀 Ready to begin my internship next semester!
 
 
@@ -8,6 +8,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=nishasy05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nishasy05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishasy05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nishasy05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nishasy05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nishasy05&icon=0&color=0)](https://visitcount.itsvg.in)
